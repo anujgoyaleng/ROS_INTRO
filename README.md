@@ -99,3 +99,52 @@ Hooks are used for local or reusable logic (/hooks).
 Strongly typed using .d.ts files inside /types.
 
 
+
+
+# 🌈 ROS UI Color Theme Guide
+
+This README outlines the official color theme for **ROS (Republic of Subjiwala)** — a modern digital platform reimagining the traditional vegetable market.
+
+---
+
+## 🎨 Color Palette
+
+| Role           | Color Code | Description                                           |
+|----------------|------------|-------------------------------------------------------|
+| **Background** | `#000000`  | Base UI background. Provides a sleek, modern canvas. |
+| **Text Primary** | `#FFFFFF` | Used for main text content and headings.             |
+| **Accent 1**   | `#FFD700`  | Used for primary CTAs (buttons), highlights, and pricing tags. |
+| **Accent 2**   | `#CBA3FF`  | Secondary buttons, card highlights, infographics.    |
+| **Success**    | `#5AC77F`  | Confirmation states, successful actions.             |
+| **Warning**    | `#FF7043`  | Error states, warnings, and promotional alerts.      |
+
+---
+
+## 🧭 Application Guidelines
+
+- **Background**: Set as the main backdrop for the entire web app.
+- **Text Primary**: Use for titles, body copy, and all foreground text for clarity and accessibility.
+- **Accent 1**: Apply for all primary action buttons (e.g., "Buy Now", "Invest") and emphasize important content.
+- **Accent 2**: Use for secondary buttons, info cards, and labels to bring visual variety while staying accessible.
+- **Success**: Green tones indicate successful user actions like form submissions, vendor approvals.
+- **Warning**: Coral tones highlight errors, validations, or limited-time announcements.
+
+---
+
+## 🖼️ Color Palette Preview
+
+> You can refer to the visual representation below for a quick glance at the full color palette.
+
+![ROS Color Palette](./Client/assets/color%20schema.png)
+
+> _Ensure the image file is named `A_2D_digital_graphic_design_image_displays_a_color.png` and placed in the same directory as this README._
+
+---
+
+## 💡 Notes
+
+- All colors are optimized for dark-mode interfaces.
+- Maintain at least a **4.5:1 contrast ratio** between text and background to ensure readability and WCAG compliance.
+- Limit use of Accent colors to retain visual hierarchy and clarity.
+
+---
